@@ -1,0 +1,40 @@
+[0.492s] Invoking command in '/home/prjadmin/Desktop/kipp_resources/kipp_arm_description': PYTHONPATH=/home/prjadmin/Desktop/kipp_resources/build/kipp_arm_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/prjadmin/Desktop/kipp_resources/install/kipp_arm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/kipp_arm_description build --build-base /home/prjadmin/Desktop/kipp_resources/build/kipp_arm_description/build install --record /home/prjadmin/Desktop/kipp_resources/build/kipp_arm_description/install.log --single-version-externally-managed install_data
+[0.658s] running egg_info
+[0.659s] writing ../build/kipp_arm_description/kipp_arm_description.egg-info/PKG-INFO
+[0.659s] writing dependency_links to ../build/kipp_arm_description/kipp_arm_description.egg-info/dependency_links.txt
+[0.659s] writing entry points to ../build/kipp_arm_description/kipp_arm_description.egg-info/entry_points.txt
+[0.659s] writing requirements to ../build/kipp_arm_description/kipp_arm_description.egg-info/requires.txt
+[0.659s] writing top-level names to ../build/kipp_arm_description/kipp_arm_description.egg-info/top_level.txt
+[0.660s] reading manifest file '../build/kipp_arm_description/kipp_arm_description.egg-info/SOURCES.txt'
+[0.661s] writing manifest file '../build/kipp_arm_description/kipp_arm_description.egg-info/SOURCES.txt'
+[0.661s] running build
+[0.661s] running build_py
+[0.662s] running install
+[0.662s] running install_lib
+[0.662s] running install_data
+[0.663s] creating /home/prjadmin/Desktop/kipp_resources/install/kipp_arm_description/share/kipp_arm_description/resource
+[0.663s] copying resource/urdf_config.rviz -> /home/prjadmin/Desktop/kipp_resources/install/kipp_arm_description/share/kipp_arm_description/resource
+[0.663s] running install_egg_info
+[0.665s] removing '/home/prjadmin/Desktop/kipp_resources/install/kipp_arm_description/lib/python3.10/site-packages/kipp_arm_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.665s] Copying ../build/kipp_arm_description/kipp_arm_description.egg-info to /home/prjadmin/Desktop/kipp_resources/install/kipp_arm_description/lib/python3.10/site-packages/kipp_arm_description-0.0.0-py3.10.egg-info
+[0.665s] running install_scripts
+[0.681s] writing list of installed files to '/home/prjadmin/Desktop/kipp_resources/build/kipp_arm_description/install.log'
+[0.685s] running egg_info
+[0.685s] writing ../build/kipp_arm_description/kipp_arm_description.egg-info/PKG-INFO
+[0.685s] writing dependency_links to ../build/kipp_arm_description/kipp_arm_description.egg-info/dependency_links.txt
+[0.685s] writing entry points to ../build/kipp_arm_description/kipp_arm_description.egg-info/entry_points.txt
+[0.685s] writing requirements to ../build/kipp_arm_description/kipp_arm_description.egg-info/requires.txt
+[0.685s] writing top-level names to ../build/kipp_arm_description/kipp_arm_description.egg-info/top_level.txt
+[0.686s] reading manifest file '../build/kipp_arm_description/kipp_arm_description.egg-info/SOURCES.txt'
+[0.687s] writing manifest file '../build/kipp_arm_description/kipp_arm_description.egg-info/SOURCES.txt'
+[0.687s] running build
+[0.687s] running build_py
+[0.687s] running install
+[0.687s] running install_lib
+[0.687s] running install_data
+[0.687s] running install_egg_info
+[0.688s] removing '/home/prjadmin/Desktop/kipp_resources/install/kipp_arm_description/lib/python3.10/site-packages/kipp_arm_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.688s] Copying ../build/kipp_arm_description/kipp_arm_description.egg-info to /home/prjadmin/Desktop/kipp_resources/install/kipp_arm_description/lib/python3.10/site-packages/kipp_arm_description-0.0.0-py3.10.egg-info
+[0.688s] running install_scripts
+[0.689s] writing list of installed files to '/home/prjadmin/Desktop/kipp_resources/build/kipp_arm_description/install.log'
+[0.705s] Invoked command in '/home/prjadmin/Desktop/kipp_resources/kipp_arm_description' returned '0': PYTHONPATH=/home/prjadmin/Desktop/kipp_resources/build/kipp_arm_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/prjadmin/Desktop/kipp_resources/install/kipp_arm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/kipp_arm_description build --build-base /home/prjadmin/Desktop/kipp_resources/build/kipp_arm_description/build install --record /home/prjadmin/Desktop/kipp_resources/build/kipp_arm_description/install.log --single-version-externally-managed install_data
